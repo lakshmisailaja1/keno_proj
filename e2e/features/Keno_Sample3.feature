@@ -19,7 +19,7 @@ Feature: As an automation framework I can verify Venues
 
 @desktop
     @smoke
-    Scenario: 3. Perform serach operation and check for All results link
+    Scenario: 3. Perform search operation and check for All results link
       Given I navigate to the "keno" page
       When the "select-state-button" element should be present
         Then I click the "VIC" with the text "VIC"
@@ -32,7 +32,7 @@ Feature: As an automation framework I can verify Venues
 
 @desktop
     @smoke
-    Scenario:4. Verify Venue results filed
+    Scenario:4. Verify Venue results field
        Given I navigate to the "keno" page
       When the "select-state-button" element should be present
         Then I click the "VIC" with the text "VIC"
