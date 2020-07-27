@@ -1,0 +1,35 @@
+{
+  "contacts header" : "contacts-header",
+  "contact item" : "contact-item",
+  "help" : "help",
+  "search" : "search",
+  "name label" : "name",
+  "name" : "name",
+  "phone" : "phone",
+  "street" : "street",
+  "submit" : "submit",
+  "cancel" : "cancel",
+  "city" : "city",
+  "content" : "content",
+  "inner content" : "inner-content",
+  "edit button" : "edit",
+  "add button" : "add-button",
+  "add" : "add-",
+  "increment" : "increment-",
+  "decrement" : "decrement-",
+  "increment button" : "increment-button",
+  "decrement button" : "decrement-button",
+  "reset button" : "reset-button",
+  "counter" : "counter",
+  "button" : "button",
+  "hidden div" : "hidden-div",
+  "hidden" : "hidden-",
+  "delete button" : "delete",
+  "contact" : "contact-",
+  "full name" : "full-name-",
+  "hidden contact" : "hidden-contact-",
+  "venue search" : "venue-search-input"
+
+}
+
+

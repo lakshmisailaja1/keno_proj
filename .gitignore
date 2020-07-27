@@ -1,0 +1,7 @@
+node_modules/
+dist/
+reports/
+mochawesome-report/
+.idea/
+.editorconfig
+package-lock.json
